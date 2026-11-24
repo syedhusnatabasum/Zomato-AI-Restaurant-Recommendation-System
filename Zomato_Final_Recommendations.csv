@@ -1,0 +1,6 @@
+Restaurant,Cuisines,Cost,Average_Rating,Similarity,Final_Score
+Paradise,"Biryani, North Indian, Chinese",800,4.7,0.7049885560998786,0.775491989269915
+Biryanis And More,"North Indian, Biryani, Chinese",500,3.74,0.7049885560998786,0.7178919892699149
+Green Bawarchi Restaurant,"North Indian, Chinese, Biryani",700,3.49,0.7049885560998786,0.702891989269915
+Hitech Bawarchi Food Zone,"Biryani, North Indian, Chinese",500,3.05,0.7049885560998786,0.676491989269915
+Pakwaan Grand,"North Indian, Chinese, Biryani",400,2.71,0.7049885560998786,0.656091989269915
